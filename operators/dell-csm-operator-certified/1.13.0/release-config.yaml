@@ -3,7 +3,7 @@
 catalog_templates:
   - template_name: v4.20.yaml
     channels: [stable]
-    replaces: dell-csm-operator-certified.v0.0.0
+    replaces: dell-csm-operator-certified.v1.12.2
   - template_name: v4.21.yaml
     channels: [stable]
-    replaces: dell-csm-operator-certified.v0.0.0
+    replaces: dell-csm-operator-certified.v1.12.2
